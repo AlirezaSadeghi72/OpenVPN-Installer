@@ -32,7 +32,7 @@ Easily deploy a secure OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Li
 ### Step 1: Download the Script
 
 ```bash
-curl -O https://raw.githubusercontent.com/AnonVM/OpenVPN-Installer/main/setup.sh
+curl -O https://raw.githubusercontent.com/AlirezaSadeghi72/OpenVPN-Installer/main/setup.sh
 chmod +x setup.sh
 ```
 
@@ -113,9 +113,6 @@ OpenVPN defaults to strong encryption settings, further enhanced by this script:
 
 ## FAQ
 
-### Recommended VPS Providers
-
-- [AnonVM](https://anonvm.wtf): Privacy focused secure hostiing
 ---
 
 ### Recommended OpenVPN Clients
